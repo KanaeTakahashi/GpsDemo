@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbUA5rTtxWm4TP3jiHELvByC+5l9N5nCT2RNqqY4z/3LiYpb7ughy2VuiVKgeQCNuX73Fq4JenMR3C2sT0DLOA==",
+  "success": true,
+  "projectFilePath": "D:\\02_sorceGit\\GpsDemoApp\\GpsDemoApp\\GpsDemoApp\\GpsDemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\髙橋香奈枝\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\髙橋香奈枝\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\髙橋香奈枝\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\髙橋香奈枝\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\髙橋香奈枝\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
+  ],
+  "logs": []
+}

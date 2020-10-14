@@ -1,0 +1,8 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/GpsDemoApp/GpsDemoApp.Android/bin/Debug
+/GpsDemoApp/GpsDemoApp/bin/Debug/netstandard2.0
+/GpsDemoApp/GpsDemoApp.Android/obj/Debug/90/android/bin
+/GpsDemoApp/GpsDemoApp.Android/obj/.cache
