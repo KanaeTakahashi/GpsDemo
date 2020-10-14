@@ -1,0 +1,1 @@
+GeolocatorPlugin を利用する練習です
